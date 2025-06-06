@@ -1,0 +1,11 @@
+# Dependências para envio de email e validação
+email-validator==2.1.0.post1
+
+# Dependências adicionais recomendadas para robustez
+python-dotenv==1.0.0
+
+# Para melhor tratamento de logs (opcional)
+loguru==0.7.2
+
+# Para testes (opcional)
+pytest==7.4.3
